@@ -1,35 +1,35 @@
 body {
-	margin:0;
+  margin:0;
   font-family:Verdana,sans-serif;
-	background:#cacaca;
+  background:#cacaca;
 }
 
 div#acudit{
-	background:white;
-	padding:0.2em;
-	border:1px solid #344055;
-	min-height:50px;
-	border-radius:0.1em;
-	text-align:left;
+  background:white;
+  padding:0.2em;
+  border:1px solid #344055;
+  min-height:50px;
+  border-radius:0.1em;
+  text-align:left;
 }
 
 div#header, div#footer{
-	color:#E6EBFB;
-	background:#344055;
-	padding:0.5em;
+  color:#E6EBFB;
+  background:#344055;
+  padding:0.5em;
 }
 
 div#footer{
-	font-size:12px;
+  font-size:12px;
 }
 
 a{
-	color:white;
-	text-decoration: none;
-	font-weight: bold;
+  color:white;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
-	color: #000066;
-	text-decoration:underline;
+  color: #000066;
+  text-decoration:underline;
 }
