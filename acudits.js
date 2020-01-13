@@ -878,4 +878,6 @@ let Acudits=[
   "-Voy a ser el puto rey!!! -Paco!! -Dime plebeya -Coronaria... tienes una enfermedad coronaria -Que le corten la cabeza",
   "Dejad de llamarlas invitaciones de boda, son entradas",
   "-Papá -Dime hijo -¿Qué es dudar? -A ver, tu a quien quieres mas, ¿a papá o mamá? -A mamá -Pues que te lo explique ella, gilipollas",
+  "¿Qué piensas de la educación en España? - Hombre, estaría bien.",
+  "- HOLA, VENÍA A DEVOLVER EL GPS - NO ES AQUÍ...",
 ];
