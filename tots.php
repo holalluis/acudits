@@ -13,7 +13,7 @@
 <script>
 	Acudits=Acudits.reverse();
   let i=1;
-  Acudits.forEach(txt)=>{
+  Acudits.forEach(txt=>{
     document.write(`<div><b>${i}</b>: ${txt}</div>`);
     i++;
   });
