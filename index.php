@@ -1,4 +1,4 @@
-﻿<!--doctype--><html><head> 
+﻿<!--doctype html--><html><head>
   <meta charset=utf-8>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <link rel="icon" href="favicon.png" type="image/x-icon">
@@ -28,19 +28,23 @@
   </button>
   <!--llegits-->
   <div style=margin:0.7em>
-    Acudits llegits: <span style=font-size:30 id=mostrats>0</span> de 
+    Acudits llegits: <span style=font-size:30 id=mostrats>0</span> de
     <span style=font-size:30><script>document.write(Acudits.length)</script></span>
   </div>
   <div> <a href=tots.php style=color:#344055>Veure'ls tots</a> </div>
 
   <!--formulari-->
-  <div style=margin:0.5em>  
+  <div style=margin:0.5em>
     <form action=enviaAcudit.php method=post>
       <textarea name=acudit style="width:70%;height:58px" placeholder="Envia'ns un acudit, comentari o suggeriment"></textarea><!--
       --><button style="height:58px;vertical-align:top;margin-left:-1px">Envia</button>
-    </form> 
+    </form>
   </div>
 </div>
 
 <!--footer-->
-<div id=footer> Acudits aleatoris 2013-2019 — Creat per <a href="https://github.com/holalluis">Lluís Mª Bosch</a></div>
+<div id=footer>
+  Acudits aleatoris 2013-<?php echo date("Y")?> —
+  Creat per
+  <a href="https://github.com/holalluis">Lluís Mª Bosch</a>
+</div>
